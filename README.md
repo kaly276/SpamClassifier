@@ -1,3 +1,4 @@
 # Spam Email Classifier
-Training accuracy of 92.1%
-![spamorham](https://user-images.githubusercontent.com/40047270/110233411-bfc00400-7ed8-11eb-8eb7-3df4fb85adfd.png)
+Created a spam email classifier using a logistic regression model and selected features. The model has a training accuracy of 92.1% and a validation accuracy of 91.1%.
+![Figure_1](https://user-images.githubusercontent.com/40047270/111856799-7add9980-88ea-11eb-8804-3f900d5c4de5.png)
+![accuracy](https://user-images.githubusercontent.com/40047270/111856808-84670180-88ea-11eb-8494-f08cb34223f5.PNG)
